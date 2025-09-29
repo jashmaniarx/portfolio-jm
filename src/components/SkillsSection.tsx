@@ -11,6 +11,7 @@ import {
   Users,
 } from "lucide-react";
 
+// Skills data array
 const skills = [
   { name: "Web Design", icon: Palette },
   { name: "Design Thinking", icon: Lightbulb },
